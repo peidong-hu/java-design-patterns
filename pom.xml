@@ -71,7 +71,7 @@
         <module>iterator</module>
         <module>mediator</module>
         <module>memento</module>
-        <module>model-view-presenter</module>
+        <!--<module>model-view-presenter</module>
         <module>observer</module>
         <module>state</module>
         <module>strategy</module>
@@ -153,7 +153,7 @@
         <module>eip-wire-tap</module>
         <module>eip-splitter</module>
         <module>eip-aggregator</module>
-        <module>retry</module>
+        <module>retry</module>->
     </modules>
 
     <repositories>
