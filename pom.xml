@@ -54,16 +54,6 @@
         <module>tls</module>
         <module>builder</module>
         <module>factory-method</module>
-        <module>prototype</module>
-        <module>singleton</module>
-        <module>adapter</module>
-        <module>bridge</module>
-        <module>composite</module>
-        <module>dao</module>
-        <module>data-mapper</module>
-        <module>decorator</module>
-        <module>facade</module>
-        <module>flyweight</module>
         <module>proxy</module>
         <module>chain</module>
         <module>command</module>
