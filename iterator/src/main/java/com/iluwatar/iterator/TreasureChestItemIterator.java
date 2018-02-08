@@ -57,7 +57,6 @@ public class TreasureChestItemIterator implements ItemIterator {
     }
     return null;
   }
-@EnableHystrixDashboard 
   private int findNextIdx() {
 
     List<Item> items = chest.getItems();
